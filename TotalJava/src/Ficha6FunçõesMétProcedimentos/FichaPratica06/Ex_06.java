@@ -7,6 +7,14 @@ import static FichaPratica06.Ex_05.*;
 import static java.lang.Thread.sleep;
 
 public class Ex_06 {
+
+    //6. Implemente o programa “Análise de um Vetor” que pergunte um o tamanho do vetor que o utilizador deseja 
+//inserir. De seguida, permita ao utilizador preencher o vetor. Posteriormente apresente um menu de opções 
+//ao utilizador, que permitem analisar o vetor inserido. Esse menu de opções deve ter o seguinte aspeto: 
+//7. Maior Elemento 
+//8. Menor Elemento 
+//9. Crescente ou Não Crescente 
+    
     public static void main(String[] args) throws InterruptedException {
 
         Scanner input = new Scanner(System.in);
