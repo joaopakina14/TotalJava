@@ -5,6 +5,17 @@ import java.util.Scanner;
 import static FichaPratica06.Ex_03.*;
 
 public class Ex_04 {
+
+    // Implemente o programa “Análise de um Número” que pergunte um número ao utilizador e, de seguida, 
+//apresente um menu de opções ao utilizador, que permitem analisar o número inserido. Esse menu de opções 
+//deve ter o seguinte aspeto: 
+//1. Par ou Ímpar 
+//2. Positivo ou Negativo 
+//3. Primo ou Não Primo 
+//4. Perfeito ou Não Perfeito 
+//5. Triangular ou Não Triangular 
+//6. Trocar de Número
+    
     public static void main(String[] args) {
 
         // Import do Scanner
