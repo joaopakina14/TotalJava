@@ -2,6 +2,11 @@ package FichaPratica06;
 
 public class Ex_03 {
 
+    //O exercício deve ser resolvido na mesma classe (por exemplo: Ex_03), deve acrescentar as funções conforme 
+//solicitado. No início não conseguirá testar se as funções funcionam ou não (uma vez que não é pedido para 
+//desenvolver nada no main), considere fazer o exercício 4 em concorrente para conseguir perceber se está tudo 
+//como esperado. 
+
     /**
      * Método que retorna se um número é par ou impar
      *
