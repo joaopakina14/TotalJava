@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 public class Ex_01 {
 
+    //Implemente uma função void fazerBarulho( ) que receba um animal (String) como argumento. De seguida, de 
+//acordo com o animal deve fazer o barulho característico (Ex.: Cão – “Au au au” | Gato – “Miau” | Peixe - “Glub 
+//Glub” | Vaca – “Muuuu” | Porco – “Oinc oinc”). 
+
     public static void fazerBarulho(String animal) {
 
         animal=animal.toLowerCase();
