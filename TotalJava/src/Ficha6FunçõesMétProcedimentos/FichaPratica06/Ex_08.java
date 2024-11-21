@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Ex_08 {
 
+    //8. Implemente funções que, dadas 2 matrizes de inteiros com a mesma dimensão, apresente (numa função) em 
+//forma de matriz o resultado da soma das 2 matrizes e (noutra função) o somatório dos seus elementos. 
+
     /**
      * Método que imprime uma matriz resultante da soma das duas matrizes enviadas por parâmetro
      * @param matriz1 Matriz 1
