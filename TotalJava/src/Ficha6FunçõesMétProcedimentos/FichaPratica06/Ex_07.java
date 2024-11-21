@@ -8,6 +8,9 @@ public class Ex_07 {
 
     public static void desenharRetangulo(String caracter, int linhas, int colunas) {
 
+        //7. Escreva um programa para desenhar um quadrado no ecrã. Esse quadrado deverá ser desenhado por uma 
+//função para a qual são passados três argumentos: caracter a utilizar, número de linhas e número de colunas. 
+
 
 
         // Linha de cima
